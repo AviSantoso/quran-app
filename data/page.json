@@ -1,0 +1,231 @@
+{
+  "verses": [
+    {
+      "id": 45,
+      "verse_number": 38,
+      "verse_key": "2:38",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 2,
+      "ruku_number": 5,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًا ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَن تَبِعَ هُدَاىَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "page_number": 7,
+      "translations": [
+        {
+          "id": 904002,
+          "resource_id": 131,
+          "text": "We said, “Descend all of you! Then when guidance comes to you from Me, whoever follows it, there will be no fear for them, nor will they grieve."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "verse_number": 39,
+      "verse_key": "2:39",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 2,
+      "ruku_number": 5,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+      "page_number": 7,
+      "translations": [
+        {
+          "id": 904003,
+          "resource_id": 131,
+          "text": "But those who disbelieve and deny Our signs will be the residents of the Fire. They will be there forever.”"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "verse_number": 40,
+      "verse_key": "2:40",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 2,
+      "ruku_number": 6,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا۟ بِعَهْدِىٓ أُوفِ بِعَهْدِكُمْ وَإِيَّـٰىَ فَٱرْهَبُونِ",
+      "page_number": 7,
+      "translations": [
+        {
+          "id": 904004,
+          "resource_id": 131,
+          "text": "O children of Israel!<sup foot_note=76391>1</sup> Remember My favours upon you. Fulfil your covenant and I will fulfil Mine, and stand in awe of Me ˹alone˺."
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "verse_number": 41,
+      "verse_key": "2:41",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 2,
+      "ruku_number": 6,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَءَامِنُوا۟ بِمَآ أَنزَلْتُ مُصَدِّقًا لِّمَا مَعَكُمْ وَلَا تَكُونُوٓا۟ أَوَّلَ كَافِرٍۭ بِهِۦ ۖ وَلَا تَشْتَرُوا۟ بِـَٔايَـٰتِى ثَمَنًا قَلِيلًا وَإِيَّـٰىَ فَٱتَّقُونِ",
+      "page_number": 7,
+      "translations": [
+        {
+          "id": 904005,
+          "resource_id": 131,
+          "text": "Believe in My revelations which confirm your Scriptures.<sup foot_note=76392>1</sup> Do not be the first to deny them or trade them for a fleeting gain.<sup foot_note=76393>2</sup> And be mindful of Me."
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "verse_number": 42,
+      "verse_key": "2:42",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 2,
+      "ruku_number": 6,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا تَلْبِسُوا۟ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُوا۟ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ",
+      "page_number": 7,
+      "translations": [
+        {
+          "id": 904006,
+          "resource_id": 131,
+          "text": "Do not mix truth with falsehood or hide the truth knowingly."
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "verse_number": 43,
+      "verse_key": "2:43",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 2,
+      "ruku_number": 6,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱرْكَعُوا۟ مَعَ ٱلرَّٰكِعِينَ",
+      "page_number": 7,
+      "translations": [
+        {
+          "id": 904007,
+          "resource_id": 131,
+          "text": "Establish prayer, pay alms-tax,<sup foot_note=76394>1</sup> and bow down with those who bow down."
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "verse_number": 44,
+      "verse_key": "2:44",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 3,
+      "ruku_number": 6,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "۞ أَتَأْمُرُونَ ٱلنَّاسَ بِٱلْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ ٱلْكِتَـٰبَ ۚ أَفَلَا تَعْقِلُونَ",
+      "page_number": 7,
+      "translations": [
+        {
+          "id": 904008,
+          "resource_id": 131,
+          "text": "Do you preach righteousness and fail to practice it yourselves, although you read the Scripture? Do you not understand?"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "verse_number": 45,
+      "verse_key": "2:45",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 3,
+      "ruku_number": 6,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَـٰشِعِينَ",
+      "page_number": 7,
+      "translations": [
+        {
+          "id": 904009,
+          "resource_id": 131,
+          "text": "And seek help through patience and prayer. Indeed, it is a burden except for the humble—"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "verse_number": 46,
+      "verse_key": "2:46",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 3,
+      "ruku_number": 6,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَٰجِعُونَ",
+      "page_number": 7,
+      "translations": [
+        {
+          "id": 904010,
+          "resource_id": 131,
+          "text": "those who are certain that they will meet their Lord and to Him they will return."
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "verse_number": 47,
+      "verse_key": "2:47",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 3,
+      "ruku_number": 7,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ عَلَى ٱلْعَـٰلَمِينَ",
+      "page_number": 7,
+      "translations": [
+        {
+          "id": 904011,
+          "resource_id": 131,
+          "text": "O Children of Israel! Remember ˹all˺ the favours I granted you and how I honoured you above the others.<sup foot_note=76395>1</sup>"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "verse_number": 48,
+      "verse_key": "2:48",
+      "juz_number": 1,
+      "hizb_number": 1,
+      "rub_el_hizb_number": 3,
+      "ruku_number": 7,
+      "manzil_number": 1,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا شَفَـٰعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ",
+      "page_number": 7,
+      "translations": [
+        {
+          "id": 904012,
+          "resource_id": 131,
+          "text": "Guard yourselves against the Day on which no soul will be of help to another. No intercession<sup foot_note=76396>1</sup> will be accepted, no ransom taken, and no help will be given."
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "per_page": 11,
+    "current_page": 1,
+    "next_page": null,
+    "total_pages": 1,
+    "total_records": 11
+  }
+}
